@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node start.js"
   },
+  "scripts": {
+  "start": "node server.js"
+},
+"main": "server.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/felipeCabrini/nodetest1.git"
