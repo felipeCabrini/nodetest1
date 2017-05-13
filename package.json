@@ -4,12 +4,8 @@
   "description": "Servidor com Exercicios da materia de visualização e processamento de dados'",
   "main": "server.js",
   "scripts": {
-    "start": "node start.js"
-  },
-  "scripts": {
   "start": "node server.js"
 },
-"main": "server.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/felipeCabrini/nodetest1.git"
